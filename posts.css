@@ -1,0 +1,9 @@
+div#posts {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+div#posts div {
+   width: 50%;
+   height: 50%;
+}

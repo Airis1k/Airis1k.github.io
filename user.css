@@ -1,0 +1,8 @@
+.user-post-album {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.user-post-album div {
+   width: 50%;
+}

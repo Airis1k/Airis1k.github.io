@@ -1,0 +1,8 @@
+div#albums {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+div#albums div {
+   width: 50%;
+}
